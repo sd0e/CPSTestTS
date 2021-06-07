@@ -22,6 +22,9 @@ let update = () => {
     for (j = 0; j < toRemove.length; j++) {
         clicks.splice(toRemove[j], 1);
     }
+    if (Number(document.getElementById('highscore').innerText) < totalClicks) {
+        document.getElementById('highscore').innerText = totalClicks.toString();
+    }
     if (totalClicks == 0) {
         button.setAttribute('value', 'Click');
     } else {
