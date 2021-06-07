@@ -54,10 +54,19 @@ body {
 }
 
 span {
-    position: fixed;
     font-size: 1.5rem;
+    line-height: 1.5rem;
+    vertical-align: middle;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #292929;
+    font-weight: bold;
+}
+
+span.holder {
+    position: fixed;
     top: 2rem;
     right: 2rem;
+    font-size: 1.5rem;
     line-height: 1.5rem;
     vertical-align: middle;
     font-family: 'Lexend Deca', sans-serif;
