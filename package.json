@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebastiandoe5/CPSTestTS.git"
+    "url": "git+https://github.com/sd0e/CPSTestTS.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sebastiandoe5/CPSTestTS/issues"
+    "url": "https://github.com/sd0e/CPSTestTS/issues"
   },
-  "homepage": "https://github.com/sebastiandoe5/CPSTestTS#readme",
+  "homepage": "https://github.com/sd0e/CPSTestTS#readme",
   "description": ""
 }
